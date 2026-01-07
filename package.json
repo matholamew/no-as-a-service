@@ -7,6 +7,7 @@
   "version": "0.1.0",
   "icon": "extension-icon.png",
   "author": "nedini",
+  "repository": "https://github.com/matholamew/no-as-a-service",
   "platforms": [
     "macOS",
     "Windows"
